@@ -13,7 +13,7 @@
  - [gcloud SDK 설치](Prerequisite.md)
 
 ### Chapter 1. First Step to Docker & k8s
- - [처음으로 만나보는 Docker와 Kubernetes 실습](./chapter1/README.md)
+ - [처음으로 만나보는 Docker와 Kubernetes 실습](./chapter1/Readme.md)
 
 ### Chapter 2. Kubernetes Core Concept Hands-On
  - [Core Concept](./chapter2/0-concept.md)
@@ -25,4 +25,4 @@
 
 ###참조 : 
    - 추가적인 hands-On을 진행하고 싶은 경우 아래 링크를 활용할 수 있다.
-    - Kubernetes : Hands-on : https://www.katacoda.com/courses/kubernetes
+        - Kubernetes : Hands-on : https://www.katacoda.com/courses/kubernetes
